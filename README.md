@@ -6,7 +6,9 @@ One of the main motivations behind creating this script was to streamline the pr
 
 Overall, this script serves as a valuable tool for traders, analysts, and anyone involved in options trading who seeks to reduce calculation complexities and obtain quick and reliable option prices for decision-making purposes.
 
-Same with MACD,it includes painstaking calculations which can be easily automated.
+Same with RSI,it includes painstaking calculations which can be easily automated.
+
+I have also uploaded the Black Scholes paper if anyone is interested in the derivation.
 
 LOTS OF LOVE
 VVADITHYA :)))
